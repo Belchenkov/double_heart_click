@@ -9,7 +9,7 @@ body {
   text-align: center;
   overflow: hidden;
   margin: 0;
-  background: url("../img/pixel-heart.png");
+  background: url("../img/blue-snow.png");
 }
 
 h3 {
@@ -22,6 +22,16 @@ small {
   display: block;
   margin-bottom: 20px;
   text-align: center;
+  font-size: 1.1rem;
+}
+
+#times {
+  font-weight: bold;
+  padding: .2rem .4rem;
+  background: red;
+  border-radius: 50%;
+  color: #fff;
+  text-shadow: 0 0 4px rgba(0, 0, 0, .5);
 }
 
 .fa-heart {
